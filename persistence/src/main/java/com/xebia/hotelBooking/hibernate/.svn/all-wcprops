@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/persistence/src/main/java/com/xebia/hotelBooking/hibernate
+END
+HibernateTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6/trunk/persistence/src/main/java/com/xebia/hotelBooking/hibernate/HibernateTemplate.java
+END
+HibernateCallBack.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/6/trunk/persistence/src/main/java/com/xebia/hotelBooking/hibernate/HibernateCallBack.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/search/src/main/webapp/WEB-INF
+END
+faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/search/src/main/webapp/WEB-INF/faces-config.xml
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/search/src/main/webapp/WEB-INF/components.xml
+END
+.pages.xml.spdia
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/search/src/main/webapp/WEB-INF/.pages.xml.spdia
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/search/src/main/webapp/WEB-INF/web.xml
+END
+pages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/search/src/main/webapp/WEB-INF/pages.xml
+END

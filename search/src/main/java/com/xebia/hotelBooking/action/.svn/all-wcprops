@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/search/src/main/java/com/xebia/hotelBooking/action
+END
+SearchAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/search/src/main/java/com/xebia/hotelBooking/action/SearchAction.java
+END
+LoginAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/search/src/main/java/com/xebia/hotelBooking/action/LoginAction.java
+END
+RegistrationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/6/trunk/search/src/main/java/com/xebia/hotelBooking/action/RegistrationAction.java
+END
+HotelDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/6/trunk/search/src/main/java/com/xebia/hotelBooking/action/HotelDetail.java
+END

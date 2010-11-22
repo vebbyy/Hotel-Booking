@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6/trunk/search/src/main/webapp
+END
+register.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/search/src/main/webapp/register.xhtml
+END
+edit.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/search/src/main/webapp/edit.xhtml
+END
+bookHotel.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/search/src/main/webapp/bookHotel.xhtml
+END
+confirmBooking.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/search/src/main/webapp/confirmBooking.xhtml
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/search/src/main/webapp/index.jsp
+END
+header.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/search/src/main/webapp/header.xhtml
+END
+login.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/search/src/main/webapp/login.xhtml
+END
+welcome.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/search/src/main/webapp/welcome.xhtml
+END
+bookingDetail.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/search/src/main/webapp/bookingDetail.xhtml
+END
+template.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/search/src/main/webapp/template.xhtml
+END
+footer.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/search/src/main/webapp/footer.xhtml
+END
+hotelDetail.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/search/src/main/webapp/hotelDetail.xhtml
+END
+searchHome.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/search/src/main/webapp/searchHome.xhtml
+END
